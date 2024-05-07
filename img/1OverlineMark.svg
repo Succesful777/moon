@@ -1,0 +1,11 @@
+<svg width="27.000000" height="27.000000" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="Overline Mark" width="17.000000" height="16.000000" transform="translate(2.000000 5.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="chevron_right_24px" width="26.526316" height="26.470589" transform="translate(-0.454590 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="icon/navigation/chevron_right_24px" d="M10.27 6.61L8.71 8.17L13.77 13.23L8.71 18.29L10.27 19.85L16.9 13.23L10.27 6.61Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<rect id="chevron_left_24px" width="14.736841" height="14.705883" transform="translate(-0.052734 5.882324)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="icon/navigation/chevron_left_24px" d="M9.59 10.42L8.72 9.55L5.04 13.23L8.72 16.91L9.59 16.04L6.77 13.23L9.59 10.42Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+</svg>
